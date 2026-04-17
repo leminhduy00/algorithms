@@ -1,4 +1,4 @@
-# -algorithms
+# algorithms
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
