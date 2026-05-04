@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/leminhduy00/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/leminhduy00/algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/leminhduy00/algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 |  |
