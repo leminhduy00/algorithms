@@ -30,12 +30,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
@@ -60,10 +62,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/leminhduy00/algorithms/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/leminhduy00/algorithms/tree/master/0657-robot-return-to-origin) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/leminhduy00/algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
