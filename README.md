@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/leminhduy00/algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 |  |
