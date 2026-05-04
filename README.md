@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/leminhduy00/algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/leminhduy00/algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/leminhduy00/algorithms/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/leminhduy00/algorithms/tree/master/0657-robot-return-to-origin) |
@@ -82,5 +84,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/leminhduy00/algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/leminhduy00/algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
