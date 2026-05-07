@@ -6,32 +6,29 @@ public:
         {
             if ((!stk.empty()) && (stk.top().first == c))
             {
-                if (stk.top().second == k -1)
-                {
-                    stk.pop();
-                }
-                else
-                {
-                    stk.top().second++;
-                }
-                continue;
+                stk.top().second++;
+            }
+            else
+            {
+                stk.push({c, 1});
             }
 
-                stk.push({c, 1});
+            if (stk.top().second == k)
+            {
+                stk.pop();
+            }
         }
 
-        string res;
+        string res = "";
+
         while (!stk.empty())
         {
-            int count = stk.top().second;
-            char c = stk.top().first;
-
-            while (count--)
-            {
-                res.insert(0, 1, c);
-            }
+            pair<int,int> p = stk.top();
             stk.pop();
+            res += string(p.second, p.first);
         }
+
+        reverse(res.begin(), res.end());
 
         return res;
     }
