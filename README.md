@@ -83,12 +83,14 @@
 | [0383-ransom-note](https://github.com/leminhduy00/algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/leminhduy00/algorithms/tree/master/0657-robot-return-to-origin) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/leminhduy00/algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/leminhduy00/algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/leminhduy00/algorithms/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/leminhduy00/algorithms/tree/master/0735-asteroid-collision) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/leminhduy00/algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
 | ------- |
