@@ -8,12 +8,11 @@ public:
             {
                 if (stk.top().second == k -1)
                 {
-                    while ((!stk.empty()) && (stk.top().first == c))
-                        stk.pop();
+                    stk.pop();
                 }
                 else
                 {
-                    stk.push({c, stk.top().second + 1});
+                    stk.top().second++;
                 }
                 continue;
             }
@@ -24,7 +23,13 @@ public:
         string res;
         while (!stk.empty())
         {
-            res.insert(0, 1, stk.top().first);
+            int count = stk.top().second;
+            char c = stk.top().first;
+
+            while (count--)
+            {
+                res.insert(0, 1, c);
+            }
             stk.pop();
         }
 
