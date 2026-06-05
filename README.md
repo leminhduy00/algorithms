@@ -26,6 +26,7 @@
 | [0179-largest-number](https://github.com/leminhduy00/algorithms/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/leminhduy00/algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/leminhduy00/algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/leminhduy00/algorithms/tree/master/0735-asteroid-collision) |
@@ -52,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/leminhduy00/algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
