@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/leminhduy00/algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/leminhduy00/algorithms/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/leminhduy00/algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/leminhduy00/algorithms/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/leminhduy00/algorithms/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/leminhduy00/algorithms/tree/master/0389-find-the-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0414-third-maximum-number](https://github.com/leminhduy00/algorithms/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -73,10 +76,12 @@
 | [0075-sort-colors](https://github.com/leminhduy00/algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/leminhduy00/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
