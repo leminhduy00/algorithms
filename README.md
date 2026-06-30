@@ -23,6 +23,7 @@
 | [0075-sort-colors](https://github.com/leminhduy00/algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/leminhduy00/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/leminhduy00/algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/leminhduy00/algorithms/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/leminhduy00/algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/leminhduy00/algorithms/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/leminhduy00/algorithms/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/leminhduy00/algorithms/tree/master/0383-ransom-note) |
@@ -51,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/leminhduy00/algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/leminhduy00/algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/leminhduy00/algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/leminhduy00/algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/leminhduy00/algorithms/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/leminhduy00/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
@@ -67,6 +70,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/leminhduy00/algorithms/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/leminhduy00/algorithms/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/leminhduy00/algorithms/tree/master/0561-array-partition) |
 ## Two Pointers
@@ -132,4 +136,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/leminhduy00/algorithms/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/leminhduy00/algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
