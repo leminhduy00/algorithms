@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/leminhduy00/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+| [0069-sqrtx](https://github.com/leminhduy00/algorithms/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/leminhduy00/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 ## Recursion
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/leminhduy00/algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
