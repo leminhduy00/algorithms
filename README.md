@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/leminhduy00/algorithms/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/leminhduy00/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/leminhduy00/algorithms/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/leminhduy00/algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/leminhduy00/algorithms/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/leminhduy00/algorithms/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/leminhduy00/algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
